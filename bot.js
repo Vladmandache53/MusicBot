@@ -19,7 +19,7 @@ bot.music.start(bot, {
 
 // Events.
 bot.on("ready", function() {
-    bot.user.setActivity(`e?play | to play music 🎵`);
+    bot.user.setActivity(`cc/play | Da ritm la voice! 🎵`);
     console.log(`${bot.user.username} e gata!`);
 });
 
